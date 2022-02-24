@@ -21,4 +21,4 @@ This implementation resolve SSL error in linux.
 - sudo chmod +x script.sh
 
 ## Known problems
-It may happen that the file has changed version or location, please visit the following (url)[ https://www.citrix.com/downloads/workspace-app/linux/workspace-app-for-linux-latest.html] and download last deb file.
+It may happen that the file has changed version or location, please visit the following [url](https://www.citrix.com/downloads/workspace-app/linux/workspace-app-for-linux-latest.html) and download last deb file.
